@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cataleg>
+  <joc id="G001">
+    <titol>Hollow Knight</titol>
+    <genere>Metroidvania</genere>
+    <any>2017</any>
+    <plataforma>PC</plataforma>
+    <preu>15.99</preu>
+    <valoracio>9.5</valoracio>
+    <descripcio>
+      Joc d'acció i exploració en 2D ambientat en un món subterrani misteriós ple d'insectes i secrets.
+    </descripcio>
+  </joc>
+
+  <joc id="G002">
+    <titol>Stardew Valley</titol>
+    <genere>Simulació / RPG</genere>
+    <any>2016</any>
+    <plataforma>PC, Switch, PS4</plataforma>
+    <preu>13.99</preu>
+    <valoracio>9.0</valoracio>
+    <descripcio>
+      Simulador de granja on heretes una masia abandonada i decideixes com organitzar la teva vida rural.
+    </descripcio>
+  </joc>
+
+  <joc id="G003">
+    <titol>Celeste</titol>
+    <genere>Plataformes</genere>
+    <any>2018</any>
+    <plataforma>PC, Switch, PS4</plataforma>
+    <preu>19.99</preu>
+    <valoracio>9.2</valoracio>
+    <descripcio>
+      Joc de plataformes amb una gran dificultat i una història sobre l'ansietat i la superació personal.
+    </descripcio>
+  </joc>
+
+  <joc id="G004">
+    <titol>Hades</titol>
+    <genere>Roguelike / Acció</genere>
+    <any>2020</any>
+    <plataforma>PC, Switch, PS5</plataforma>
+    <preu>24.99</preu>
+    <valoracio>9.3</valoracio>
+    <descripcio>
+      Joc d'acció roguelike on intentes escapar de l'inframón controlant Zagreus, el fill d'Hades.
+    </descripcio>
+  </joc>
+
+  <joc id="G005">
+    <titol>Minecraft</titol>
+    <genere>Sandbox</genere>
+    <any>2011</any>
+    <plataforma>PC, consoles, mòbil</plataforma>
+    <preu>26.95</preu>
+    <valoracio>9.0</valoracio>
+    <descripcio>
+      Joc de construcció i exploració on pots crear mons infinits a base de blocs, en mode creatiu o supervivència.
+    </descripcio>
+  </joc>
+
+  <joc id="G006">
+    <titol>The Legend of Zelda: Breath of the Wild</titol>
+    <genere>Aventura / Món obert</genere>
+    <any>2017</any>
+    <plataforma>Nintendo Switch</plataforma>
+    <preu>59.99</preu>
+    <valoracio>9.8</valoracio>
+    <descripcio>
+      Aventura d'acció en món obert on explores Hyrule, resols santuaris i lluites contra enemics per derrotar Ganon.
+    </descripcio>
+  </joc>
+
+  <joc id="G007">
+    <titol>God of War (2018)</titol>
+    <genere>Acció / Aventura</genere>
+    <any>2018</any>
+    <plataforma>PS4, PC</plataforma>
+    <preu>49.99</preu>
+    <valoracio>9.6</valoracio>
+    <descripcio>
+      Kratos viatja per la mitologia nòrdica amb el seu fill Atreus en un viatge emocional i ple de combats.
+    </descripcio>
+  </joc>
+</cataleg>

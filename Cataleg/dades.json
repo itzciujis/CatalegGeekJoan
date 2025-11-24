@@ -1,0 +1,74 @@
+{
+  "cataleg": [
+    {
+      "id": "G001",
+      "titol": "Hollow Knight",
+      "genere": "Metroidvania",
+      "any": 2017,
+      "plataforma": "PC",
+      "preu": 15.99,
+      "valoracio": 9.5,
+      "descripcio": "Joc d'acció i exploració en 2D ambientat en un món subterrani misteriós ple d'insectes i secrets."
+    },
+    {
+      "id": "G002",
+      "titol": "Stardew Valley",
+      "genere": "Simulació / RPG",
+      "any": 2016,
+      "plataforma": "PC, Switch, PS4",
+      "preu": 13.99,
+      "valoracio": 9.0,
+      "descripcio": "Simulador de granja on heretes una masia abandonada i decideixes com organitzar la teva vida rural."
+    },
+    {
+      "id": "G003",
+      "titol": "Celeste",
+      "genere": "Plataformes",
+      "any": 2018,
+      "plataforma": "PC, Switch, PS4",
+      "preu": 19.99,
+      "valoracio": 9.2,
+      "descripcio": "Joc de plataformes amb una gran dificultat i una història sobre l'ansietat i la superació personal."
+    },
+    {
+      "id": "G004",
+      "titol": "Hades",
+      "genere": "Roguelike / Acció",
+      "any": 2020,
+      "plataforma": "PC, Switch, PS5",
+      "preu": 24.99,
+      "valoracio": 9.3,
+      "descripcio": "Joc d'acció roguelike on intentes escapar de l'inframón controlant Zagreus, el fill d'Hades."
+    },
+    {
+      "id": "G005",
+      "titol": "Minecraft",
+      "genere": "Sandbox",
+      "any": 2011,
+      "plataforma": "PC, consoles, mòbil",
+      "preu": 26.95,
+      "valoracio": 9.0,
+      "descripcio": "Joc de construcció i exploració on pots crear mons infinits a base de blocs, en mode creatiu o supervivència."
+    },
+    {
+      "id": "G006",
+      "titol": "The Legend of Zelda: Breath of the Wild",
+      "genere": "Aventura / Món obert",
+      "any": 2017,
+      "plataforma": "Nintendo Switch",
+      "preu": 59.99,
+      "valoracio": 9.8,
+      "descripcio": "Aventura d'acció en món obert on explores Hyrule, resols santuaris i lluites contra enemics per derrotar Ganon."
+    },
+    {
+      "id": "G007",
+      "titol": "God of War (2018)",
+      "genere": "Acció / Aventura",
+      "any": 2018,
+      "plataforma": "PS4, PC",
+      "preu": 49.99,
+      "valoracio": 9.6,
+      "descripcio": "Kratos viatja per la mitologia nòrdica amb el seu fill Atreus en un viatge emocional i ple de combats."
+    }
+  ]
+}
